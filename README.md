@@ -20,6 +20,7 @@ Usage and Setup
  - [ ]After cloning navigate to the project directory cd OpenAPIProject
  - [ ]Open visual studio editor 
  - [ ]Navigate to the index.html file and open the browser in a separate tab to view the API website
+ - Please note it does take a minute for the code to populate so be patient :)
 
 Contact
 
